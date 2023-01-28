@@ -1,2 +1,2 @@
-# BMP file Handler in C
- an old project from high school
+# bmp-manipulation-in-c
+ this is a c data structure that helps you to manipulate BMP files 
